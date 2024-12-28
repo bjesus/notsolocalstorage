@@ -1,0 +1,9 @@
+{
+  "summary": {
+    "en-US": "Sync localStorage across devices using Firefox Sync"
+  },
+  "categories": ["other"],
+  "version": {
+    "license": "MIT"
+  }
+}
